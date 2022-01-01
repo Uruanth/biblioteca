@@ -16,3 +16,6 @@ Servicios para hacer CRUD de los recursos.
 No olvide probar el desarrollo con Postman e implementa pruebas unitarias.
 
 Desarrolla y comparte tu repositorio git, ten en cuenta que tu solución debe administrar una base de datos mongodb en el cluster de mongoatlas.
+
+## Se documento y probo con Swagger
+Para probarlo, cuando se ejecute el aplicativo como "endpoint" usar "swagger-ui.html".
